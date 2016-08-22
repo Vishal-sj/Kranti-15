@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_e2b28a080d8b78e6967dee7682be5d95e520b8db.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_3a979ea901042c080c3b2b120a58657307d7d5f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_d5193d9be936900201f8a1721ff657d96d081d22.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_759fdb5df35eef79fe45e0794136938c8d461147.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_c5c253cdf43ac3bdd0f3bc03d4b38905f3d23213.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_9c5887d007f035aba6b83db7a3e42a5d85f08278.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_68aec75e1285cdcb02be1c4f9cf1ecd30f4b8f3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_ab4d175b2ae2df7d0f8eb1aeb38415cc70f47fb4.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_204af99f4defa3067c3ce1d7539f1ca7c31e6ad4.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_711117e8155c50e65a53dd69997fc3110afedcbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_1474c34edffb8d9739fdf73f66220f50611405fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_7ee3e6b729ab18af60eb3a9818bd0db57e5b02f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_9ec640cc1c4a9cb052267cc136c287c8e39eea06.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_d9a81e237ed04a5b44eb5c942564c42afa9170dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_db45135b132170a98d9f9c21550300d51cf2191f.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_cdfcd566353f40855466aa0c90b5a407f904318b.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_e5bdfa8d1dd7307a6ff67180d5328e11ef70d507.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_5ee9d28996916f8c48598e531300ef2617723a20.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_9b24b6d68b085385384d58751a2f51a2681fae42.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_2cebe1e35410d15f5eca9d21370d6f8cb640cbfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_716c35143af9ac763ee1d0fe9ba92ce734f9a6df.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_7b00feab300dcfb5ec10412e41604ae99f8442f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_e8b5e591e642bb7ff7f67887b350702f2833a09d.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_8894238abb12939a39ec1634d4c5085a592518e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_988741cf84d2ce48bf9a1de69ea7b0f3a0e2c302.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_d53ddba6df64899ac2e003841ff973d3443e1a97.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_df324898b251e561aa7917c0e16103765961e8bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_d80dbc556085ff69997b3dea6bd18cd8821c45f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_5b9b3607b50c100894a0a4f66374672938432139.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_9fca64e2dae0e60f7422d42e19f506550932a70e.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_5d170016f62e8096869545b302431a14d2e52a77.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_916980f2322b0d9c1e24fb6570641d26ae9f48f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_906fcad9db15c960d1ad4d0ecceaed98daa9eaa5.jar" />
+    </item>
+    <item
+        jar="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\lashi\Desktop\Kranti&apos;15\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_ae3cfd2e6ed99cf3dd9eace8fba6f9927ab821cc.jar" />
+    </item>
+
+</items>
